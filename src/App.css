@@ -1,0 +1,28 @@
+/** @format */
+
+/*Basic styling to improve the visual appeal of the application*/
+.App {
+  font-family: monospace;
+  font-weight: bold;
+  margin-top: 25vh;
+  text-align: center;
+}
+
+p {
+  margin: 5vh;
+}
+
+.buttons {
+  display: inline-flex;
+  margin-top: 5vh;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  font-family: 'monospace';
+  font-weight: bold;
+  margin: 1vw;
+  padding: 10px;
+}
